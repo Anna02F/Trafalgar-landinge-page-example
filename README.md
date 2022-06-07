@@ -4,3 +4,5 @@ Trafalgar is a fully responsive landing page with functional components and smoo
 
 
 ![trafalgar](https://user-images.githubusercontent.com/70126905/172400076-04ff571a-e539-4c8c-afb7-9310d0390f91.gif)
+
+Page UI from FIGMA community. Author-by Hero Ninja.
