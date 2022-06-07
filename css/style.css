@@ -653,6 +653,10 @@ a.btn {
     html {
         font-size: 55%;
     }
+
+    .container {
+        max-width: 90%;
+    }
     .hero_img {
         flex: 0.5;
     }
@@ -668,7 +672,7 @@ a.btn {
 
 @media screen and (max-width: 768px) {
     .container {
-        max-width: 90%;
+        max-width: 85%;
     }
 
     /* Hero */
